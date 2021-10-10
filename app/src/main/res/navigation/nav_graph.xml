@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/loginFragment"
-        android:name="com.example.yash_coding_task.LoginScreenFragment"
+        android:name="com.example.yash_coding_task.views.LoginScreenFragment"
         android:label="fragment_login"
         tools:layout="@layout/fragment_login">
         <action
@@ -17,7 +17,7 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.example.yash_coding_task.HomeScreenFragment"
+        android:name="com.example.yash_coding_task.views.HomeScreenFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home">
 

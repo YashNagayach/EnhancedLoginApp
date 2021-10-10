@@ -1,8 +1,9 @@
-package com.example.yash_coding_task
+package com.example.yash_coding_task.views
 
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.example.yash_coding_task.R
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.delay
